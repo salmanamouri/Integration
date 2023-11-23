@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../../img"
+		},
+		{
+			"name": "Bootstrap",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap"
+	}
+}
